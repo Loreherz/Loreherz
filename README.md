@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Loreherz
-- 👀 I’m interested in statistic 
-- 🌱 I’m currently learning machine learning in R and python 
+- 👀 I’m interested in statistic and machine learning. 
 - 💞️ I’m looking to collaborate on health sector in medical images
 
 
